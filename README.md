@@ -1,1 +1,1 @@
-# Közös GitHub gyakorlat
+# Közös GitHub gyakorla
